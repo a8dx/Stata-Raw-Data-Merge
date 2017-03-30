@@ -1,2 +1,5 @@
 # Stata-Raw-Data-Merge
-Tutorial on importing and consolidating large numbers of raw data files in Stata
+
+RCP85.zip: contains several paths, each housing multiple CSVs as examples of raw data 
+
+RawDataMasterMerge.do: Stata .do file example of reading-in and consolidating raw files across paths
